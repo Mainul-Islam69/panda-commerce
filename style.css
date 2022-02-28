@@ -1,0 +1,37 @@
+
+
+.panda-bg-info{
+    background-color: #fae0df;
+}
+.categories img{
+
+     width: 69px;
+}
+.panda-bg-primary{
+    background-color:#FF589B
+}
+.bg-primary{
+    background-color: #4289FF;
+}
+.btn-bg-warning{
+    background-color: #FF589B;
+    width: 120px;
+    border-radius: 5px;
+}
+.panda-btn-warning{
+    border-radius: 5px;
+    background-color:#FF589B;
+}
+.mx-5{
+    padding-left: 100px;
+}
+.panda-ps-5{
+    padding-left: 100px;
+    width: 508.94px;
+    height: 48px;
+}
+.btn-outlines-success{
+    border-radius: 5px;
+    background-color: #FF589B;
+    width: 120px;
+}
